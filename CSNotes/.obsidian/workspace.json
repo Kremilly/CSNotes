@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4456f52d29eee914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpretadores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58b45e049a0d4b62",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiladores.md",
+                "file": "Interpretadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiladores.md",
+                "file": "Interpretadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiladores.md"
+                "file": "Interpretadores.md"
               }
             }
           }
@@ -171,11 +184,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "acc07a2b3e2ab7de",
+  "active": "4456f52d29eee914",
   "lastOpenFiles": [
+    "Compiladores.md",
+    "Interpretadores.md",
     "Tipos de Compiladores.md",
     "Notas.md",
-    "Compiladores.md",
     "create a link.md"
   ]
 }
